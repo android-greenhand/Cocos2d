@@ -1,0 +1,13 @@
+<Solution>
+  <PropertyGroup Name="ChineseChess" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="floor.jpg" />
+        <Project Name="Login.csd" Type="Scene" />
+        <Image Name="Login.png" />
+        <Image Name="register.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

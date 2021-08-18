@@ -1,0 +1,113 @@
+﻿  AppDelegate.cpp
+  ChessBoard.cpp
+  Clientclass.cpp
+  Login.cpp
+f:\cocos\chinesechess\classes\appdelegate.cpp(38): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\login.cpp(31): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\login.cpp(32): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\login.cpp(66): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\login.cpp(67): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\login.cpp(70): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\login.cpp(75): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\login.cpp(78): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\login.cpp(98): warning C4996: 'cocos2d::CCTextFieldTTF': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(551) : 参见“cocos2d::CCTextFieldTTF”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(551) : 参见“cocos2d::CCTextFieldTTF”的声明
+f:\cocos\chinesechess\classes\login.cpp(99): warning C4996: 'cocos2d::CCTextFieldTTF': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(551) : 参见“cocos2d::CCTextFieldTTF”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(34): warning C4305: “=”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(225): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(226): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(249): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(252): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(262): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556) : 参见“cocos2d::Label::create”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(265): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(275): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(290): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(304): warning C4996: 'cocos2d::CCSizeMake': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(385) : 参见“cocos2d::CCSizeMake”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(316): warning C4996: 'cocos2d::String': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051) : 参见“cocos2d::String”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051) : 参见“cocos2d::String”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(318): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556) : 参见“cocos2d::Label::create”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(323): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556) : 参见“cocos2d::Label::create”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(339): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(403): warning C4996: 'cocos2d::String': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051) : 参见“cocos2d::String”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(404): warning C4996: 'cocos2d::String': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051) : 参见“cocos2d::String”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(406): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556) : 参见“cocos2d::Label::create”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(434): warning C4305: “=”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\chessboard.cpp(469): warning C4996: 'cocos2d::Node::boundingBox': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(1173) : 参见“cocos2d::Node::boundingBox”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(1173) : 参见“cocos2d::Node::boundingBox”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(1173) : 参见“cocos2d::Node::boundingBox”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(606): warning C4996: 'cocos2d::String': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051) : 参见“cocos2d::String”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(607): warning C4996: 'cocos2d::String': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(1051) : 参见“cocos2d::String”的声明
+f:\cocos\chinesechess\classes\chessboard.cpp(609): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556) : 参见“cocos2d::Label::create”的声明
+  MainInterface.cpp
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(104): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(105): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(111): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(112): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(118): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(119): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(134): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(135): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(136): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(137): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(138): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(140): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(141): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(142): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(143): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(144): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(148): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(158): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\maininterface\maininterface.cpp(159): warning C4305: “参数”: 从“double”到“float”截断
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159) : 参见“cocos2d::Node::setZOrder”的声明
+  SelectStone.cpp
+  SingleMachine.cpp
+  main.cpp
+f:\cocos\chinesechess\classes\selectstone\selectstone.cpp(57): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\selectstone\selectstone.cpp(58): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\selectstone\selectstone.cpp(80): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccmenuitem.h(428) : 参见“cocos2d::MenuItemImage::create”的声明
+f:\cocos\chinesechess\classes\selectstone\selectstone.cpp(83): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\selectstone\selectstone.cpp(104): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556) : 参见“cocos2d::Label::create”的声明
+f:\cocos\chinesechess\classes\selectstone\selectstone.cpp(107): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos\chinesechess\classes\selectstone\selectstone.cpp(111): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+          e:\cocos2d-x\cocos2d-x-3.10\cocos\2d\cclabel.h(556) : 参见“cocos2d::Label::create”的声明
+  复制了 60 个文件
+  ChineseChess.vcxproj -> F:\cocos\ChineseChess\proj.win32\Debug.win32\ChineseChess.exe
+  复制了 0 个文件

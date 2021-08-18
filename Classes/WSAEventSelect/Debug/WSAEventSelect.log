@@ -1,0 +1,20 @@
+﻿  WSAEventSelect.cpp
+  ThreadRecv.cpp
+f:\cocos\chinesechess\classes\msgtype\msgtype.hpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          f:\printi\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\cocos\chinesechess\classes\msgtype\msgtype.hpp(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          f:\printi\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\cocos\chinesechess\classes\msgtype\msgtype.hpp(81): warning C4005: “_BUFFER_MAX_SIZE”: 宏重定义
+          f:\cocos\chinesechess\classes\wsaeventselect\threadrecv.h(11) : 参见“_BUFFER_MAX_SIZE”的前一个定义
+f:\cocos\chinesechess\classes\msgtype\msgtype.hpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          f:\printi\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\cocos\chinesechess\classes\wsaeventselect\threadrecv.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+f:\cocos\chinesechess\classes\wsaeventselect\threadrecv.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+  EventSelect.cpp
+  Room.cpp
+  DataLibrary.cpp
+  SocketInit.cpp
+  正在生成代码...
+DataLibrary.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 "public: void __thiscall DataLibrary::ConnectDataLibrary(void)" (?ConnectDataLibrary@DataLibrary@@QAEXXZ) 中被引用
+DataLibrary.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 "public: void __thiscall DataLibrary::ConnectDataLibrary(void)" (?ConnectDataLibrary@DataLibrary@@QAEXXZ) 中被引用
+F:\cocos\ChineseChess\proj.win32\Debug\WSAEventSelect.exe : fatal error LNK1120: 2 个无法解析的外部命令

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client">
+      <UniqueIdentifier>{da66b171-a9ec-431e-9085-34cb05ac1797}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SocketInit">
+      <UniqueIdentifier>{2692a6ea-f0ba-408b-b0a8-bcf33799b7d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MsgType">
+      <UniqueIdentifier>{b161be4d-5e6a-468d-8051-c80ed86f7ba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stone">
+      <UniqueIdentifier>{1080304b-1f4b-49a4-99d9-e58974de2708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MenuInterface">
+      <UniqueIdentifier>{6e4d961b-b338-442a-a2db-1dacf4b9a796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HelpSence">
+      <UniqueIdentifier>{16c590a8-5744-4f2c-bf2f-51b2249ea53f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelectStone">
+      <UniqueIdentifier>{1fc3441c-b120-4a3e-a11a-27c1b8ab1940}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChessBoard">
+      <UniqueIdentifier>{f93cd6a2-571c-41a4-8006-0fdf81eb455f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Login">
+      <UniqueIdentifier>{9618c3ba-8768-4ac0-bc60-44279838e335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SingleMachine">
+      <UniqueIdentifier>{d46a1ef1-3a6a-4910-ab14-f00376c3a201}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HuffCode">
+      <UniqueIdentifier>{28e6d991-265d-4432-830c-9b5096ebea82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LoginHistory">
+      <UniqueIdentifier>{2632bfbe-ab58-42ee-b688-cbec96b33251}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Clientclass.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SocketInit\SocketInit.cpp">
+      <Filter>SocketInit</Filter>
+    </ClCompile>
+    <ClCompile Include="Stone.cpp">
+      <Filter>Stone</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainInterface\MainInterface.cpp">
+      <Filter>MenuInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelpSence\HelpSence.cpp">
+      <Filter>HelpSence</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SelectStone\SelectStone.cpp">
+      <Filter>SelectStone</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ChessBoard.cpp">
+      <Filter>ChessBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Login.cpp">
+      <Filter>Login</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleMachine.cpp">
+      <Filter>SingleMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HuffCode\HuffCode.cpp">
+      <Filter>HuffCode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoginHistory\LoginHistory.cpp">
+      <Filter>LoginHistory</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Clientclass.h">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SocketInit\SocketInit.h">
+      <Filter>SocketInit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MsgType\MsgType.hpp">
+      <Filter>MsgType</Filter>
+    </ClInclude>
+    <ClInclude Include="Stone.h">
+      <Filter>Stone</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="..\Classes\MainInterface\MainInterface.h">
+      <Filter>MenuInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelpSence\HelpSence.h">
+      <Filter>HelpSence</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SelectStone\SelectStone.h">
+      <Filter>SelectStone</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ChessBoard.h">
+      <Filter>ChessBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Login.h">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="SigleMachine.h">
+      <Filter>SingleMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HuffCode\HuffCode.h">
+      <Filter>HuffCode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoginHistory\LoginHistory.h">
+      <Filter>LoginHistory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\timestamp.hpp">
+      <Filter>Client</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
